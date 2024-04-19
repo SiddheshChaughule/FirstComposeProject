@@ -26,8 +26,6 @@ class MainActivity : ComponentActivity() {
                 }
             }
             println("This is local change 1")
-            println("This is local change 2")
-
         }
     }
 }
