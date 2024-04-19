@@ -25,6 +25,7 @@ class MainActivity : ComponentActivity() {
                     Greeting("Android")
                 }
             }
+            println("This is local change 1")
         }
     }
 }
