@@ -27,8 +27,10 @@ class MainActivity : ComponentActivity() {
             }
             println("This is local change 1")
             println("This is local change 5")
+            println("This is local change 6")
             println("This is branch change 1")
             println("This is branch change 2")
+
 
         }
     }
