@@ -32,6 +32,8 @@ class MainActivity : ComponentActivity() {
             println("This is branch change 2")
 
             println("This is origin master change 1")
+            println("This is origin master change 2")
+
 
         }
     }
